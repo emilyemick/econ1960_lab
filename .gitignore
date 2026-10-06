@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+
+# R history and workspace files
+.Rhistory
+.RData
+.Ruserdata/
