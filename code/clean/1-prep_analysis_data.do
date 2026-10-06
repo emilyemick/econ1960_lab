@@ -1,8 +1,9 @@
 *===========================================================================
-* FALL 2024
+* FALL 2026
 * ECON 1960 Senior Thesis     
-* This version: 10/26/2024           
+* This version: 10/06/2026           
 * Author: Francesco Ferlenga, Alison Lodermeier and Jiayue Zhang
+* Edited by: Emily Emick
 *===========================================================================
 
 ***** Data Cleaning and Preparation
@@ -20,9 +21,10 @@ set more off
 * Set your directory here
 // global 	root 		"/Users/macbookair/Dropbox"
 // global 	root 		"/Users/alilodermeier/Dropbox (Personal)"
-global 	root 		"/Users/Jac/Dropbox (Personal)"
+// global 	root 		"/Users/Jac/Dropbox (Personal)"
+global root "/Users/emilyemick/Documents/GitHub"
 
-global	maindir		"$root/Brown/2024Fall/ECON 1960/template" // this is the way you comment a line of dofile
+global	maindir		"$root/econ1960_lab" // this is the way you comment a line of dofile
 global 	codedir 	"$maindir/code"
 global 	rawdir 		"$maindir/data/raw"
 global 	intdir 		"$maindir/data/interim"
