@@ -3,7 +3,7 @@
 * ECON 1960 Senior Thesis     
 * This version: 10/06/2026           
 * Author: Francesco Ferlenga, Alison Lodermeier and Jiayue Zhang
-* Edited by: Emily Emick
+* Edited by: Emily Emick 
 *===========================================================================
 
 ***** Data Cleaning and Preparation
